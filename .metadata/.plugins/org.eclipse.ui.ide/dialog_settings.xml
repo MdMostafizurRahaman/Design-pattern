@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\design\BridgeDesignPatterns"/>
+			<item value="D:\design\1320_BridgeDesignPatterns\src"/>
+			<item value="D:\design"/>
+			<item value="D:\design\1320_BridgeDesignPatterns\src\1320_bridge"/>
+			<item value="D:\design\1320_BridgeDesignPatterns"/>
+			<item value="D:\design\1320_singleton"/>
+			<item value="D:\design\1320_proxy"/>
+			<item value="D:\design\1320_Prototype"/>
+			<item value="D:\design\1320_observer_pattern"/>
+			<item value="D:\design\1320_facade"/>
+			<item value="D:\design\1320_composite"/>
+			<item value="D:\design\1320_builderz"/>
+			<item value="D:\design\1320_abs fac"/>
+			<item value="D:\design\1320.AdapterDesign"/>
+			<item value="D:\design\1320.myDocument"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item key="OUTSIDE_LOCATION" value="D:\design"/>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

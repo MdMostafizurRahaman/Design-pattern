@@ -1,0 +1,21 @@
+package ChainOfResponsibility;
+
+public class Main {
+    public static void main(String[] args) {
+        DialogBox dialogBox = new DialogBox();
+
+        
+        Button btn = new Button();
+        btn.setTooltipText("HIII");
+        btn.showHelp();
+
+        Panel panel = new Panel();
+
+        panel.add(new Component());
+        panel.add(new Component());
+
+        panel.setWikiPageURL("https://example.com");
+
+        panel.showHelp();
+    }
+}

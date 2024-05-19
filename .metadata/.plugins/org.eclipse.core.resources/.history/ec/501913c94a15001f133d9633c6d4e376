@@ -1,0 +1,27 @@
+package ChainOfResponsibility;
+
+public class Main {
+    public static void main(String[] args) {
+        // Create a dialog box
+        DialogBox dialogBox = new DialogBox();
+
+        // Set modal help text for the dialog box
+        dialogBox.setModalHelpText("This is modal help for the dialog box");
+
+        // Show help for the dialog box
+        dialogBox.showHelp();
+
+        // Create a panel
+        Panel panel = new Panel();
+
+        // Add components to the panel
+        panel.add(new Component());
+        panel.add(new Component());
+
+        // Set wiki page URL for the panel
+        panel.setWikiPageURL("https://example.com");
+
+        // Show help for the panel
+        panel.showHelp();
+    }
+}
